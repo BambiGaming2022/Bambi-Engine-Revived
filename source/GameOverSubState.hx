@@ -8,7 +8,7 @@ import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 
-class GameOverSubstate extends MusicBeatSubState
+class GameOverSubState extends MusicBeatSubState
 {
 	public var boyfriend:Boyfriend;
 	public var camGame:FlxCamera;
