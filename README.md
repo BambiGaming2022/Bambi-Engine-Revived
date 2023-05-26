@@ -4,9 +4,11 @@
 
 # Bambi Engine Revived
 Modified version of Psych Engine adding more stuff, most notably higher key amounts, time signatures, and Hscript support, and MUCH MORE.
+![Logo Witout](https://github.com/BambiGaming2022/Bambi-Engine-Revived/assets/116512242/899b07b5-3744-49a2-b85f-5f335dc318d2)
 
 ## Credits:
 * Starmapo - Programmer and Artist
+* Bambigaming2023 - Starter Programmer and Artist
 
 ## Special Thanks:
 * KadeDev & GitHub Contributors - Made Kade Engine (some code and ideas are from there)
@@ -38,6 +40,7 @@ _____________________________________
 * Separate voices for the player and the opponent (by adding a 'VoicesOpponent' or 'VoicesDad' file)
 * Gameplay Changers: Play as the opponent, change song (not chart, SONG) speed, demo mode (showcase gameplay)
 * Go to options menu from the pause menu (and go right back to game after you're done!)
+* and MORE
 
 # New Options
 * Note underlays
@@ -48,6 +51,7 @@ _____________________________________
 * "Shit" counting as a miss
 * Smooth health bar
 * Save Data menu where you can clear your save data
+* and MORE
 
 # Minor Touches
 * Camera bump in Freeplay (from @Stilic)
