@@ -1,0 +1,2 @@
+if value 1 - 1 then disables ghost tapping
+and leaving value 1 blank or setting it to 0 will enable ghost tapping
