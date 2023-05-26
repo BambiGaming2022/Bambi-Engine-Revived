@@ -1,9 +1,9 @@
-# NOTE: THIS ENGINE IS STILL BEING WORKED ON! Report any bugs in the issues page!
+![Logo](https://github.com/BambiGaming2022/Bambi-Engine-Revived/assets/116512242/c3c6af14-b7d5-46e2-ad64-0bdc0b879d45)
 
-![Psych Engine Extra](https://user-images.githubusercontent.com/85134252/153526241-9f265b56-ffd1-4452-bb61-c7500471a910.png)
 
-# Friday Night Funkin' - Psych Engine Extra
-Modified version of Psych Engine adding more stuff, most notably higher key amounts, time signatures, and Hscript support.
+
+# Bambi Engine Revived
+Modified version of Psych Engine adding more stuff, most notably higher key amounts, time signatures, and Hscript support, and MUCH MORE.
 
 ## Credits:
 * Starmapo - Programmer and Artist
